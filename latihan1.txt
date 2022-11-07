@@ -3,3 +3,4 @@ Ini saya lagi coba edit
 saya coba menambahkan baris
 saya sedang bealajr branch pada master
 ini adalah fitur 1.1
+ini adalah fitur 1.2
